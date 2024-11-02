@@ -1,4 +1,4 @@
-<h1 align="center">lailai's Home</h1>
+<h1 align="center">Hello I'm lailai! 👋</h1>
 
 Welcome to my GitHub profile! I'm a OIer.
 
