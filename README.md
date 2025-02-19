@@ -14,11 +14,11 @@
 
 🫧 对代码的整洁和规范有着较高的要求。
 
-💡 我喜欢将学习的过程整理成文章，与大家共同成长。
+💡 喜欢将学习过程整理成文章，与大家共同成长。
 
 ![](https://skillicons.dev/icons?i=aws,azure,cloudflare,npm,git,github,c,cpp,qt,html,js,ts,css,py,md,latex,docker,linux,vscode,nodejs,react)
 
-![lailai's GitHub Stats](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![lailai's GitHub Stats](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/languages.svg#gh-light-mode-only)
