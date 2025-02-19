@@ -16,6 +16,9 @@
 
 💡 我喜欢将学习的过程整理成文章，与大家共同成长。
 
+![](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light#gh-light-mode-only)
+![](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark#gh-dark-mode-only)
+
 ![](https://skillicons.dev/icons?i=aws,azure,cloudflare,npm,git,github,c,cpp,qt,html,js,ts,css,py,md,latex,docker,linux,vscode,nodejs,react&theme=light#gh-light-mode-only)
 ![](https://skillicons.dev/icons?i=aws,azure,cloudflare,npm,git,github,c,cpp,qt,html,js,ts,css,py,md,latex,docker,linux,vscode,nodejs,react&theme=dark#gh-dark-mode-only)
 
