@@ -16,8 +16,8 @@
 
 💡 我喜欢将学习的过程整理成文章，与大家共同成长。
 
-![](https://skillicons.dev/icons?i=aws,azure,cloudflare,npm,git,github,c,cpp,qt,html,js,ts,css,py,md,latex,docker,linux,vscode,nodejs,react&theme=light#gh-light-mode-only)
-![](https://skillicons.dev/icons?i=aws,azure,cloudflare,npm,git,github,c,cpp,qt,html,js,ts,css,py,md,latex,docker,linux,vscode,nodejs,react&theme=dark#gh-dark-mode-only)
+[![My Skill](https://skillicons.dev/icons?i=aws,azure,cloudflare,npm,git,github,c,cpp,qt,html,js,ts,css,py,md,latex,docker,linux,vscode,nodejs,react&theme=light#gh-light-mode-only)](https://skillicons.dev)
+[![My Skill](https://skillicons.dev/icons?i=aws,azure,cloudflare,npm,git,github,c,cpp,qt,html,js,ts,css,py,md,latex,docker,linux,vscode,nodejs,react&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
 
 ![lailai's GitHub Stats](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![lailai's GitHub Stats](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-light-mode-only)
