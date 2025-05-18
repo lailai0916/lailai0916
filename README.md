@@ -8,13 +8,13 @@
 
 🧑🏻‍🎓 我是一名来自浙江杭州的中学生。
 
-🧑🏻‍💻 喜欢数学与编程，对技术充满热情与探索精神。
+🧑🏻‍💻 热爱数学与编程，对技术充满热情与探索精神。
 
 💡 具备较强的自学能力与问题解决能力，善于独立思考与实践。
 
 🫧 注重代码的规范与整洁，追求结构清晰、风格一致。
 
-✍️ 喜欢将学习过程整理为文章，记录思考，也便于交流与共享。
+✍️ 喜欢整理学习过程，记录思考，便于交流与共享。
 
 ![](https://skillicons.dev/icons?i=aws,azure,cloudflare,npm,git,github,c,cpp,qt,html,js,ts,css,py,md,latex,docker,linux,vscode,nodejs,react)
 
