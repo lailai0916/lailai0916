@@ -16,7 +16,7 @@
 
 ✍️ 喜欢整理学习过程，记录思考，便于交流与共享。
 
-![](https://skillicons.dev/icons?i=aws,azure,cloudflare,npm,git,github,c,cpp,qt,html,js,ts,css,py,md,latex,docker,linux,vscode,nodejs,react)
+![](https://skillicons.dev/icons?i=c,cpp,py,java,md,latex,html,css,js,ts,react,tailwind,qt,cmake,npm,git,github,vscode,visualstudio,linux,windows,docker,cloudflare,wordpress&perline=12)
 
 ![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-light-mode-only)
