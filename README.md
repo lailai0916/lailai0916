@@ -2,7 +2,7 @@
   🎉<a href="https://www.lailai.one">Hello, I'm lailai</a>🥳
 </h1>
 <p align="center">
-  <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a>
+  <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁体中文</a> | <a href="README.ja.md">日本語</a>
 </p>
 
 🧑🏻‍🎓 I am a middle school student from Hangzhou, Zhejiang, China.

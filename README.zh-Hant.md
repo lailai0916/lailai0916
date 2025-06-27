@@ -5,15 +5,15 @@
   <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁体中文</a> | <a href="README.ja.md">日本語</a>
 </p>
 
-🧑🏻‍🎓 我是一名来自浙江杭州的中学生。
+🧑🏻‍🎓 我是一名來自浙江杭州的中學生。
 
-🧑🏻‍💻 热爱数学与编程，对技术充满热情，喜欢探索新事物。
+🧑🏻‍💻 熱愛數學與編程，對技術充滿熱情，喜歡探索新事物。
 
-💡 拥有较强的自学能力和解决问题的能力，善于独立思考和动手实践。
+💡 擁有較強的自學能力和解決問題的能力，善於獨立思考和動手實踐。
 
-🫧 注重代码的规范与整洁，追求结构清晰、风格一致。
+🫧 注重程式碼的規範與整潔，追求結構清晰、風格一致。
 
-✍️ 喜欢整理学习过程，记录思考，方便交流和分享。
+✍️ 喜歡整理學習過程，記錄思考，方便交流和分享。
 
 ![](https://skillicons.dev/icons?i=c,cpp,py,java,md,latex,html,css,js,ts,react,tailwind,qt,cmake,npm,git,github,vscode,visualstudio,linux,windows,docker,cloudflare,wordpress&perline=12)
 
