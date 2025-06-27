@@ -5,15 +5,15 @@
   <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁体中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.es.md">Español</a>
 </p>
 
-🧑🏻‍🎓 I am a middle school student from Hangzhou, Zhejiang, China.
+🧑🏻‍🎓 Soy un estudiante de secundaria de Hangzhou, Zhejiang, China.
 
-🧑🏻‍💻 Passionate about mathematics and programming, enthusiastic about technology, and enjoy exploring new things.
+🧑🏻‍💻 Me apasionan las matemáticas y la programación, tengo mucho entusiasmo por la tecnología y me encanta explorar cosas nuevas.
 
-💡 Strong self-learning ability and problem-solving skills, good at independent thinking and hands-on practice.
+💡 Tengo una gran capacidad de autoaprendizaje y de resolución de problemas, y soy bueno en el pensamiento independiente y la práctica.
 
-🫧 Focus on clean and standardized code, pursuing clear structure and consistent style.
+🫧 Presto atención a la limpieza y estandarización del código, persigo una estructura clara y un estilo coherente.
 
-✍️ Enjoy organizing the learning process and recording thoughts for convenient communication and sharing.
+✍️ Me gusta organizar el proceso de aprendizaje y registrar mis pensamientos para facilitar la comunicación y el intercambio.
 
 ![](https://skillicons.dev/icons?i=c,cpp,py,java,md,latex,html,css,js,ts,react,tailwind,qt,cmake,npm,git,github,vscode,visualstudio,linux,windows,docker,cloudflare,wordpress&perline=12)
 
