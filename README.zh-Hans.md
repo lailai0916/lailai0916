@@ -2,15 +2,15 @@
   🎉<a href="https://www.lailai.one">Hello, I'm lailai</a>🥳
 </h1>
 
-🧑🏻‍🎓 I am a middle school student from Hangzhou, Zhejiang, China.
+🧑🏻‍🎓 我是一名来自浙江杭州的中学生。
 
-🧑🏻‍💻 Passionate about mathematics and programming, with a strong enthusiasm for technology and exploration.
+🧑🏻‍💻 热爱数学与编程，对技术充满热情，喜欢探索新事物。
 
-💡 Strong self-learning ability and problem-solving skills, good at independent thinking and practical application.
+💡 拥有较强的自学能力和解决问题的能力，善于独立思考和动手实践。
 
-🫧 Focus on clean and standardized code, pursuing clear structure and consistent style.
+🫧 注重代码的规范与整洁，追求结构清晰、风格一致。
 
-✍️ Enjoy organizing the learning process and recording thoughts for better communication and sharing.
+✍️ 喜欢整理学习过程，记录思考，方便交流和分享。
 
 ![](https://skillicons.dev/icons?i=c,cpp,py,java,md,latex,html,css,js,ts,react,tailwind,qt,cmake,npm,git,github,vscode,visualstudio,linux,windows,docker,cloudflare,wordpress&perline=12)
 
