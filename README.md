@@ -1,9 +1,5 @@
 <h1 align="center">
-  🎉
-  <a href="https://www.lailai.one">
-    Hello, I'm lailai
-  </a>
-  🥳
+  🎉<a href="https://www.lailai.one">Hello, I'm lailai</a>🥳
 </h1>
 
 🧑🏻‍🎓 我是一名来自浙江杭州的中学生。
