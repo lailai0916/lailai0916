@@ -4,13 +4,13 @@
 
 🧑🏻‍🎓 I am a middle school student from Hangzhou, Zhejiang, China.
 
-🧑🏻‍💻 Passionate about mathematics and programming, with a strong enthusiasm for technology and exploration.
+🧑🏻‍💻 Passionate about mathematics and programming, enthusiastic about technology, and enjoy exploring new things.
 
-💡 Strong self-learning ability and problem-solving skills, good at independent thinking and practical application.
+💡 Strong self-learning ability and problem-solving skills, good at independent thinking and hands-on practice.
 
 🫧 Focus on clean and standardized code, pursuing clear structure and consistent style.
 
-✍️ Enjoy organizing the learning process and recording thoughts for better communication and sharing.
+✍️ Enjoy organizing the learning process and recording thoughts for convenient communication and sharing.
 
 ![](https://skillicons.dev/icons?i=c,cpp,py,java,md,latex,html,css,js,ts,react,tailwind,qt,cmake,npm,git,github,vscode,visualstudio,linux,windows,docker,cloudflare,wordpress&perline=12)
 
