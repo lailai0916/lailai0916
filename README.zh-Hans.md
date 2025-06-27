@@ -1,6 +1,10 @@
 <h1 align="center">
   🎉<a href="https://www.lailai.one">Hello, I'm lailai</a>🥳
 </h1>
+<p align="center">
+  <a href="README.md">🇺🇸 English</a> | 
+  <a href="README.zh-Hans.md">🇨🇳 简体中文</a>
+</p>
 
 🧑🏻‍🎓 我是一名来自浙江杭州的中学生。
 
