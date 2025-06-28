@@ -2,16 +2,16 @@
   🎉<a href="https://www.lailai.one">Hello, I'm lailai</a>🥳
 </h1>
 <p align="center">
-  <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.es.md">Español</a> | <a href="README.fr.md">Français</a>
+  <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.es.md">Español</a> | <a href="README.fr.md">Français</a> | <a href="README.mf.md">Minfist</a>
 </p>
 
-🧑🏻‍🎓 我是一名来自浙江杭州的中学生。
+🎓 我是一名来自浙江杭州的中学生。
 
-🧑🏻‍💻 热爱数学与编程，对技术充满热情，喜欢探索新事物。
+💻 热爱数学与编程，对技术充满热情，喜欢探索新事物。
 
 💡 拥有较强的自学能力和解决问题的能力，善于独立思考和动手实践。
 
-🫧 注重代码的规范与整洁，追求结构清晰、风格一致。
+🛠️ 注重代码的规范与整洁，追求结构清晰、风格一致。
 
 ✍️ 喜欢整理学习过程，记录思考，方便交流和分享。
 
