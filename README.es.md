@@ -2,10 +2,10 @@
   🎉 <a href="https://www.lailai.one">Hello, I'm lailai</a> 🥳
 </h1>
 <p align="center">
-  <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.es.md">Español</a> | <a href="README.fr.md">Français</a> | <a href="README.mf.md">Minfist</a>
+  <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.es.md">Español</a> | <a href="README.fr.md">Français</a>
 </p>
 
-🎓 Soy un estudiante de secundaria de Hangzhou, Zhejiang, China.
+🎓 Soy un estudiante de secundaria de Hangzhou, China.
 
 💻 Apasionado por las matemáticas y la programación, con gran entusiasmo por la tecnología y el gusto por explorar cosas nuevas.
 

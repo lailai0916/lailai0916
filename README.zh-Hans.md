@@ -2,10 +2,10 @@
   🎉 <a href="https://www.lailai.one">Hello, I'm lailai</a> 🥳
 </h1>
 <p align="center">
-  <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.es.md">Español</a> | <a href="README.fr.md">Français</a> | <a href="README.mf.md">Minfist</a>
+  <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.es.md">Español</a> | <a href="README.fr.md">Français</a>
 </p>
 
-🎓 我是一名来自浙江杭州的中学生。
+🎓 我是一名来自中国杭州的中学生。
 
 💻 热爱数学与编程，对技术充满热情，喜欢探索新事物。
 
