@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🎉 <a href="https://www.lailai.one">Hello, I'm lailai</a> 🥳</h1>
-  <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.es.md">Español</a> | <a href="README.fr.md">Français</a>
+  <p><a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.es.md">Español</a> | <a href="README.fr.md">Français</a></p>
 </div>
 
 🎓 I am a middle school student from Hangzhou, China.
