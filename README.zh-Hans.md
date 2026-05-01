@@ -3,15 +3,15 @@
   <p><a href="README.md">English</a> | 简体中文 | <a href="README.zh-Hant.md">繁體中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.ko.md">한국어</a> | <a href="README.es.md">Español</a> | <a href="README.fr.md">Français</a> | <a href="README.ru.md">русский</a></p>
 </div>
 
-🎓 我是一名来自中国杭州的中学生。
+🎓 我是来自中国杭州的高中生，目前就读于杭州第二中学。
 
-💻 热爱数学与编程，对技术充满热情，喜欢探索新事物。
+💻 我的兴趣主要集中在数学、计算机科学与编程。
 
-💡 拥有较强的自学能力和解决问题的能力，善于独立思考和动手实践。
+🏆 信息学竞赛（OI）的经历塑造了我的思维方式与解决问题的方式。
 
-🛠️ 注重代码的规范与整洁，追求结构清晰、风格一致。
+💡 我习惯独立学习、系统思考，并结合理论与实践解决问题。
 
-✍️ 喜欢整理学习过程，记录思考，方便交流和分享。
+🛠️ 我重视代码、设计与写作中的清晰结构、一致风格与细节表达，并以统一、简约、现代作为设计理念。
 
 ![](https://skillicons.dev/icons?i=c,cpp,py,java,md,latex,html,css,js,ts,react,tailwind,qt,cmake,npm,git,github,vscode,visualstudio,linux,windows,docker,cloudflare,wordpress&perline=12)
 

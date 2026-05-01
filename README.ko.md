@@ -3,15 +3,15 @@
   <p><a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a> | <a href="README.ja.md">日本語</a> | 한국어 | <a href="README.es.md">Español</a> | <a href="README.fr.md">Français</a> | <a href="README.ru.md">русский</a></p>
 </div>
 
-🎓 저는 중국 항저우 출신의 중학생입니다.
+🎓 저는 중국 항저우 출신의 고등학생이며, 현재 Hangzhou No.2 High School에 재학 중입니다.
 
-💻 수학과 프로그래밍을 좋아하고, 기술에 대한 열정이 있으며 새로운 것을 탐구하는 것을 즐깁니다.
+💻 제 관심 분야는 수학, 컴퓨터 과학, 프로그래밍입니다.
 
-💡 자기 주도 학습 능력과 문제 해결 능력이 뛰어나며, 독립적으로 사고하고 직접 실천하는 데 능숙합니다.
+🏆 정보 올림피아드(OI) 경험은 제가 사고하고 문제를 해결하는 방식에 큰 영향을 주었습니다.
 
-🛠️ 깔끔하고 일관된 스타일을 추구하며, 코드의 규칙성과 구조적인 명확함을 중요하게 생각합니다.
+💡 저는 스스로 학습하고, 체계적으로 사고하며, 이론과 실천을 함께 바탕으로 문제에 접근합니다.
 
-✍️ 학습 과정을 정리하고 생각을 기록하는 것을 좋아하며, 이를 통해 소통과 공유가 더 쉬워집니다.
+🛠️ 저는 코드, 디자인, 글쓰기에서 명확한 구조, 일관된 스타일, 세심한 디테일을 중요하게 생각하며, 통일성, 단순함, 현대성을 디자인 철학으로 삼고 있습니다.
 
 ![](https://skillicons.dev/icons?i=c,cpp,py,java,md,latex,html,css,js,ts,react,tailwind,qt,cmake,npm,git,github,vscode,visualstudio,linux,windows,docker,cloudflare,wordpress&perline=12)
 

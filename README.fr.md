@@ -3,15 +3,15 @@
   <p><a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.ko.md">한국어</a> | <a href="README.es.md">Español</a> | Français | <a href="README.ru.md">русский</a></p>
 </div>
 
-🎓 Je suis un collégien de Hangzhou, en Chine.
+🎓 Je suis lycéen à Hangzhou, en Chine, et j’étudie actuellement au Hangzhou No.2 High School.
 
-💻 Passionné par les mathématiques et la programmation, enthousiaste des technologies et j'aime explorer de nouvelles choses.
+💻 Mes centres d’intérêt portent sur les mathématiques, l’informatique et la programmation.
 
-💡 Forte capacité d'auto-apprentissage et de résolution de problèmes, avec un bon esprit d'analyse et de bonnes compétences pratiques.
+🏆 Mon expérience en Olympiade d’informatique (OI) a façonné ma manière de penser et de résoudre les problèmes.
 
-🛠️ Attaché à un code propre et standardisé, visant une structure claire et un style cohérent.
+💡 J’apprends de manière autonome, je pense de façon systématique et j’aborde les problèmes en combinant théorie et pratique.
 
-✍️ J'aime organiser le processus d'apprentissage et noter mes réflexions pour faciliter la communication et le partage.
+🛠️ J’accorde de l’importance à la clarté, à la cohérence et aux détails soignés dans le code, le design et l’écriture, avec une philosophie de design fondée sur l’unité, la simplicité et la modernité.
 
 ![](https://skillicons.dev/icons?i=c,cpp,py,java,md,latex,html,css,js,ts,react,tailwind,qt,cmake,npm,git,github,vscode,visualstudio,linux,windows,docker,cloudflare,wordpress&perline=12)
 

@@ -3,15 +3,15 @@
   <p>English | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a> | <a href="README.ja.md">日本語</a> | <a href="README.ko.md">한국어</a> | <a href="README.es.md">Español</a> | <a href="README.fr.md">Français</a> | <a href="README.ru.md">русский</a></p>
 </div>
 
-🎓 I am a middle school student from Hangzhou, China.
+🎓 I am a high school student from Hangzhou, China, currently studying at Hangzhou No.2 High School.
 
-💻 Passionate about mathematics and programming, enthusiastic about technology, and enjoy exploring new things.
+💻 My interests center on mathematics, computer science, and programming.
 
-💡 Strong self-learning ability and problem-solving skills, good at independent thinking and hands-on practice.
+🏆 My experience in Olympiad in Informatics (OI) has shaped my way of thinking and problem-solving.
 
-🛠️ Focus on clean and standardized code, pursuing clear structure and consistent style.
+💡 I learn independently, think systematically, and approach problems through both theory and practice.
 
-✍️ Enjoy organizing the learning process and recording thoughts for convenient communication and sharing.
+🛠️ I value clarity, consistency, and thoughtful details in code, design, and writing, guided by a design philosophy of Unity, Simplicity, and Modernity.
 
 ![](https://skillicons.dev/icons?i=c,cpp,py,java,md,latex,html,css,js,ts,react,tailwind,qt,cmake,npm,git,github,vscode,visualstudio,linux,windows,docker,cloudflare,wordpress&perline=12)
 
