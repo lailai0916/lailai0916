@@ -13,7 +13,7 @@
 
 🛠️ 저는 코드, 디자인, 글쓰기에서 명확한 구조, 일관된 스타일, 세심한 디테일을 중요하게 생각하며, 통일성, 단순함, 현대성을 디자인 철학으로 삼고 있습니다.
 
-![](https://skillicons.dev/icons?i=c,cpp,py,java,md,latex,html,css,js,ts,react,tailwind,qt,cmake,npm,git,github,vscode,visualstudio,linux,windows,docker,cloudflare,wordpress&perline=12)
+![](https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,java,javascript,typescript,html,css,react,nextjs,nodejs,tailwindcss,vite,eslint,mysql,latex,markdown,mermaid,git,github,vercel,cloudflare,docker,nginx,linux,macos,bash,apple,chatgpt,claude,cursor,photoshop,figma,blender,mcp,playwright&perline=12)
 
 ![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/languages.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/languages.svg#gh-dark-mode-only)

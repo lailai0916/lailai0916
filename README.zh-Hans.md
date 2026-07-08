@@ -13,7 +13,7 @@
 
 🛠️ 我重视代码、设计与写作中的清晰结构、一致风格与细节表达，并以统一、简约、现代作为设计理念。
 
-![](https://skillicons.dev/icons?i=c,cpp,py,java,md,latex,html,css,js,ts,react,tailwind,qt,cmake,npm,git,github,vscode,visualstudio,linux,windows,docker,cloudflare,wordpress&perline=12)
+![](https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,java,javascript,typescript,html,css,react,nextjs,nodejs,tailwindcss,vite,eslint,mysql,latex,markdown,mermaid,git,github,vercel,cloudflare,docker,nginx,linux,macos,bash,apple,chatgpt,claude,cursor,photoshop,figma,blender,mcp,playwright&perline=12)
 
 ![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/languages.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/languages.svg#gh-dark-mode-only)
