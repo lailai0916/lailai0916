@@ -13,6 +13,8 @@
 
 🛠️ 我重视代码、设计与写作中的清晰结构、一致风格与细节表达，并以统一、简约、现代作为设计理念。
 
+🌐 我在个人网站 [lailai.one](https://lailai.one) 上分享技术笔记、项目经验与学习思考。
+
 ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,java,javascript,typescript,html,css,nodejs,react,nextjs,tailwindcss,vite,mysql,markdown,latex,mermaid,git,github,playwright,linux,bash,docker,nginx,cloudflare,vercel,tor,macos,apple,cursor,chatgpt,claude,mcp,figma,photoshop,blender&perline=12)
 
 ![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-dark-mode-only)
