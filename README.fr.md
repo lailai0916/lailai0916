@@ -13,7 +13,7 @@
 
 🛠️ J’accorde de l’importance à la clarté, à la cohérence et aux détails soignés dans le code, le design et l’écriture, avec une philosophie de design fondée sur l’unité, la simplicité et la modernité.
 
-![](https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,java,javascript,typescript,html,css,react,nextjs,nodejs,tailwindcss,vite,eslint,mysql,latex,markdown,mermaid,git,github,vercel,cloudflare,docker,nginx,linux,macos,bash,apple,chatgpt,claude,cursor,photoshop,figma,blender,mcp,playwright&perline=12)
+![](https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,java,javascript,typescript,html,css,nodejs,react,nextjs,tailwindcss,vite,mysql,markdown,latex,mermaid,git,github,playwright,linux,bash,docker,nginx,cloudflare,vercel,tor,macos,apple,cursor,chatgpt,claude,mcp,figma,photoshop,blender&perline=12)
 
 ![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/languages.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/lailai0916/github-stats/master/generated/languages.svg#gh-dark-mode-only)
