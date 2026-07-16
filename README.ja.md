@@ -13,7 +13,7 @@
 
 🛠️ コード、デザイン、文章において、明確な構造、一貫したスタイル、細部への配慮を重視し、統一・簡潔・現代的であることをデザイン理念としています。
 
-🌐 個人サイト [lailai.one](https://lailai.one) では、技術ノートやプロジェクトの経験、学びの記録を公開しています。
+🌐 個人サイト [lailai.one](https://lailai.one) では、技術ノートやプロジェクトの経験、学びの気づきを公開しています。
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,java,javascript,typescript,html,css,nodejs,react,nextjs,tailwindcss,vite,mysql,markdown,latex,mermaid,git,github,playwright,linux,bash,docker,nginx,cloudflare,vercel,tor,macos,apple,cursor,chatgpt,claude,mcp,figma,photoshop,blender&perline=12)
 
