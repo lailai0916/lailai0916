@@ -1,0 +1,24 @@
+# Normalize line endings to LF on checkin; let git pick sane checkout behavior.
+* text=auto eol=lf
+
+# Windows-native scripts stay CRLF.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Treat these as binary — never touch line endings or diff them.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.woff binary
+*.woff2 binary
+*.doc binary
+*.docx binary
+*.xls binary
+*.xlsx binary
+*.ppt binary
+*.pptx binary
+*.zip binary
+*.gz binary
