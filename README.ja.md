@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🎉 Hello, I'm lailai 🥳</h1>
-  <p><a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a> | <a href="README.zh-Hant.md">繁體中文</a> | 日本語 | <a href="README.ko.md">한국어</a> | <a href="README.es.md">Español</a> | <a href="README.fr.md">Français</a> | <a href="README.ru.md">русский</a></p>
+  <p><a href="README.md">English</a> · <a href="README.zh-Hans.md">简体中文</a> · <a href="README.zh-Hant.md">繁體中文</a> · <strong>日本語</strong> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.ru.md">русский</a></p>
 </div>
 
 🎓 私は中国・杭州出身の高校生で、現在は杭州第二中学に在学しています。
